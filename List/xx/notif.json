@@ -1,0 +1,13 @@
+{
+  "description": {
+    "title": "Claim XX Airdrop!",
+    "body": "Your wallet is eligible to claim XX airdrop!",
+    "icon": "",
+    "link": "",
+    "status": "",
+    "token": "",
+    "name": "XX",
+    "date": "yyyy-mm-ddThh:mm:00.000Z",
+    "deadline": "yyyy-mm-ddThh:mm:00.000Z"
+  }
+}
